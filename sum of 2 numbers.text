@@ -1,0 +1,5 @@
+step 1:take 2 numbers into variables a and b
+step 2:store both numbers such as a=4 and b=5
+step 3:take another variable to store the sum such as c
+step 4:c=a+bot
+step 5:print c
